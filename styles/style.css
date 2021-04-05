@@ -1,0 +1,31 @@
+.calc {
+    width: 300px;
+    margin: 30px auto;
+    border-radius: 20px;
+    background-color: #9ef3e7;
+    padding: 15px;
+}
+
+.calc-title {
+    text-align: center;
+}
+
+#select-from, #select-to, #input-from {
+    padding: 5px;
+    font-size: 20px;
+    display: block;
+    width: 80%;
+    margin-bottom: 15px;
+}
+
+#result {
+    height: 50px;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: #fff;
+}
